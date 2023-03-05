@@ -1,9 +1,9 @@
 <div align="center">
     <a href="https://product.kyobobook.co.kr/detail/S000061584859">
-        <img src="./bookcover.png" alt="단단한 파이썬 표지" width="128"/>
+        <img src="./bookcover.png" alt="단단한 파이썬 표지" width="256"/>
     </a>
-    <h1>단단한 파이썬</h1>
-    <small>패트릭 비아포어</small>
+    <h3>단단한 파이썬</h3>
+    <small><i>Written By 패트릭 비아포어</i></small>
 </div>
 
 ---
