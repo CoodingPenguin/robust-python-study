@@ -1,10 +1,80 @@
-# RobustPython
-Code Examples for Robust Python book
+<div align="center">
+    <a href="https://product.kyobobook.co.kr/detail/S000061584859">
+        <img src="./bookcover.png" alt="단단한 파이썬 표지" width="128"/>
+    </a>
+    <h1>단단한 파이썬</h1>
+    <small>패트릭 비아포어</small>
+</div>
 
-Note that to get many of the examples use dummy types and data to not take away from the book example.
+---
 
-For example, complex types might be aliased as a string and instances are just random snippets of text.
-Additionally, functions might just return hardcoded values.
+## 📖 책 소개
 
-The meat of the book examples are unchanged from the text, however. Feel free to stick in a `breakpoint()`
-in the code to further understand how it works.
+> 파이썬은 접근하기 쉽고 사용하기도 쉬운 장점이 있지만 자칫 하면 코드의 양이 방대해지기도 쉽다. 그리고 그에 따른 문제가 발생할 가능성이 높은데 이 책에서는 이를 방지하고 해결할 수 있는 방법을 알려준다. 타입을 정의하는 것을 시작으로 데이터 클래스, 클래스 등 파이썬이 제공하는 다양한 타입을 알아보고 이들의 사용법을 정리한다. 그리고 이 타입을 체킹하기 위한 다양한 도구를 소개한다.
+확장성을 확보하기 위해 조합, 이벤트 주도 아키텍처, 플러그인도 알아보며, 소프트웨어의 안전망을 확보하기 위해 정적 분석, 테스트 전략, 인수 테스트, 속성 기반 테스트, 뮤테이션 테스트 등을 살펴본다.
+
+## 🔍 목차
+
+<details>
+    <summary><strong>1장. 견고한 파이썬</strong></summary>
+
+    ```
+    __견고성
+    ____견고성이 중요한 이유
+    __여러분의 의도는 무엇인가?
+    ____비동기 소통
+    __파이썬 코드에서 의도의 예시
+    ____컬렉션
+    ____반복 구문
+    ____최소 놀람의 원칙
+    __마치며
+    ```
+
+</details>
+
+<details>
+    <summary><strong>2장. 파이썬 타입의 소개</strong></summary>
+
+    ```
+    __타입이란?
+    ____기계적인 표현
+    ____의미적 표현
+    __타입 시스템
+    ____강한 스펙트럼과 약한 스펙트럼
+    ____동적 타입과 정적 타입
+    ____덕 타이핑
+    __마치며
+    ```
+
+</details>
+
+<details>
+    <summary><strong>3장. 타입 어노테이션</strong></summary>
+
+    ```
+    __타입 어노테이션이란?
+    __타입 어노테이션의 장점
+    ____자동 완성
+    ____타입 체커
+    ____연습: 버그 찾기
+    __타입 어노테이션은 사용할 때
+    __마치며
+    ```
+
+</details>
+
+<details>
+    <summary><strong>4장. 타입의 제어</strong></summary>
+
+    ```
+    __Optional 타입
+    __Union 타입
+    ____곱 타입과 합 타입
+    __Literal 타입
+    __Annotated 타입
+    __NewType
+    __Final 타입
+    __마치며
+    ```
+
+</details>
