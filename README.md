@@ -18,7 +18,6 @@
 <details>
     <summary><strong>1장. 견고한 파이썬</strong></summary>
 
-    ```
     __견고성
     ____견고성이 중요한 이유
     __여러분의 의도는 무엇인가?
@@ -28,14 +27,12 @@
     ____반복 구문
     ____최소 놀람의 원칙
     __마치며
-    ```
 
 </details>
 
 <details>
     <summary><strong>2장. 파이썬 타입의 소개</strong></summary>
 
-    ```
     __타입이란?
     ____기계적인 표현
     ____의미적 표현
@@ -44,14 +41,12 @@
     ____동적 타입과 정적 타입
     ____덕 타이핑
     __마치며
-    ```
 
 </details>
 
 <details>
     <summary><strong>3장. 타입 어노테이션</strong></summary>
 
-    ```
     __타입 어노테이션이란?
     __타입 어노테이션의 장점
     ____자동 완성
@@ -59,14 +54,12 @@
     ____연습: 버그 찾기
     __타입 어노테이션은 사용할 때
     __마치며
-    ```
 
 </details>
 
 <details>
     <summary><strong>4장. 타입의 제어</strong></summary>
 
-    ```
     __Optional 타입
     __Union 타입
     ____곱 타입과 합 타입
@@ -75,7 +68,6 @@
     __NewType
     __Final 타입
     __마치며
-    ```
 
 </details>
 
